@@ -1,0 +1,8 @@
+path: /content/mmdetection/datasets/minecraft
+train: train
+val: valid
+test: test
+
+nc: 17
+names: ['bee','chicken','cow','creeper','enderman','fox','frog','ghast',
+         'goat','llama','pig','sheep','skeleton','spider','turtle','wolf','zombie']
