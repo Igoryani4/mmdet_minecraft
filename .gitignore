@@ -121,3 +121,7 @@ work_dirs/
 *.pth
 *.py~
 *.sh~
+datasets/minecraft/*.jpg
+datasets/minecraft/*.png
+datasets/minecraft/*/*.jpg
+datasets/minecraft/*/*.png
